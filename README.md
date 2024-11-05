@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## Preview
+
+![CREATE](create.png)
 
 This project is a starting point for a Flutter application.
 
