@@ -1,4 +1,4 @@
-# versatile_app
+# myapp
 
 A new Flutter project.
 
